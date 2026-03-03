@@ -8,7 +8,7 @@ This section demonstrates the SQL queries required by the database project assig
 
 Displays all genres present in the database.
 
-*(Insert screenshot below)*
+![Query Result](query_1.png)
 
 ---
 
@@ -16,7 +16,7 @@ Displays all genres present in the database.
 
 Displays each game and the number of genres associated with it, ordered from most to least.
 
-*(Insert screenshot below)*
+![Query Result](query_2.png)
 
 ---
 
@@ -24,7 +24,7 @@ Displays each game and the number of genres associated with it, ordered from mos
 
 Displays the genres of games available on the Mobile platform.
 
-*(Insert screenshot below)*
+![Query Result](query_3.png)
 
 ---
 
@@ -32,7 +32,7 @@ Displays the genres of games available on the Mobile platform.
 
 Displays genres that are not available on each platform.
 
-*(Insert screenshot below)*
+![Query Result](query_4.png)
 
 ---
 
@@ -40,7 +40,7 @@ Displays genres that are not available on each platform.
 
 Players 1 and 2 played 10 additional hours. The stored procedure was used to update their total hours played.
 
-*(Insert screenshot below)*
+![Query Result](Query_5_6.png)
 
 ---
 
@@ -48,7 +48,7 @@ Players 1 and 2 played 10 additional hours. The stored procedure was used to upd
 
 Displays the updated total hours played for Players 1 and 2.
 
-*(Insert screenshot below)*
+![Query Result](Query_5_6.png)
 
 ---
 
@@ -56,7 +56,7 @@ Displays the updated total hours played for Players 1 and 2.
 
 Uses the `GenreDetails` function to display developers who worked on adventure games and the number of adventure games they contributed to.
 
-*(Insert screenshot below)*
+![Query Result](query_7.png)
 
 ---
 
@@ -64,7 +64,7 @@ Uses the `GenreDetails` function to display developers who worked on adventure g
 
 Uses the `Review_Details` view to list users who gave a rating lower than 5.
 
-*(Insert screenshot below)*
+![Query Result](query_8.png)
 
 ---
 
@@ -72,7 +72,7 @@ Uses the `Review_Details` view to list users who gave a rating lower than 5.
 
 Uses the `MinReviewDate` function to find the earliest review date for the user "PuzzleQueen".
 
-*(Insert screenshot below)*
+![Query Result](query_9.png)
 
 ---
 
@@ -80,4 +80,4 @@ Uses the `MinReviewDate` function to find the earliest review date for the user 
 
 Uses the `Game_Platform_Details` view to display all games available on PC and their prices.
 
-*(Insert screenshot below)*
+![Query Result](query_10.png)
