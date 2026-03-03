@@ -1,0 +1,2 @@
+-- SQL Server Table Creation Script
+-- Includes PK/FK constraints and checks
